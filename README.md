@@ -1,5 +1,7 @@
 # Construisez un modèle de scoring
 
+**Projet n° 4** du parcours [Ingénieur IA](https://openclassrooms.com/fr/paths/188-ingenieur-ia) chez [Openclassrooms](https://openclassrooms.com/fr/)
+
 ## Description
 Vous êtes Data Scientist au sein d'une société financière, nommée "Prêt à dépenser",  qui propose des crédits à la consommation pour des personnes ayant peu ou pas d'historique de prêt.
 
